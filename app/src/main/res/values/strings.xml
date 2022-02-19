@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">FourInARow</string>
+	<string name="rules_label">Rules:</string>
+	<string name="rule1">1) Players will alternate turns placing pieces on the board</string>
+	<string name="rule2">2) Pieces can be placed anywhere on the board</string>
+	<string name="rule3">3) Place 4 pieces of the same color in a vertical, horizontal, or diagonal row to win!</string>
+	<string name="name">Name</string>
+	<string name="start_game">Start Game</string>
+	<string name="quit">Quit</string>
+</resources>
